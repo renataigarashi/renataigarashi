@@ -1,5 +1,6 @@
 ## About Me
 I'm Renata, your trusty backend developer (currently leveling up to become a full-stack wizard). 💻✨
+
 Fueled by an unquenchable thirst for knowledge and a deep passion for technology, I navigate the coding wilderness, hunting down bugs and mastering the arcane arts of backend development.
 
 ## Current Quests 🎯
