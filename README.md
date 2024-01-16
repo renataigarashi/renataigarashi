@@ -17,7 +17,8 @@ Fueled by an unquenchable thirst for knowledge and a deep passion for technology
 
 ## Connect with Me 🚀
 
-Ready to join forces on this epic coding adventure? Let's connect and conquer the techverse together on [LinkedIn](https://www.linkedin.com/in/renata-igarashi){:target="_blank"}!
+Ready to join forces on this epic coding adventure? Let's connect and conquer the techverse together on <a href="https://www.linkedin.com/in/renata-igarashi" target="_blank">LinkedIn</a>!
+
 
 May your code compile swiftly, and your errors be ever elusive! Happy coding! 🚀🧙‍♀️
 
