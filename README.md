@@ -1,9 +1,5 @@
-# Greetings, Code Enthusiast! 👩‍💻
-
-Hello, brave coder exploring the vast digital lands! 🚀 I'm Renata, your trusty backend developer (currently leveling up to become a full-stack wizard). 💻✨
-
 ## About Me
-
+I'm Renata, your trusty backend developer (currently leveling up to become a full-stack wizard). 💻✨
 They say curiosity killed the cat, but for me, it's just another debugging session! 🐱💪 Fueled by an unquenchable thirst for knowledge and a deep passion for technology, I navigate the coding wilderness, hunting down bugs and mastering the arcane arts of backend development.
 
 ## Current Quests 🎯
