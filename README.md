@@ -20,7 +20,7 @@ They say curiosity killed the cat, but for me, it's just another debugging sessi
 
 ## Connect with Me 🚀
 
-Ready to join forces on this epic coding adventure? Let's connect and conquer the techverse together on [LinkedIn](https://www.linkedin.com/in/renata-igarashi)!
+Ready to join forces on this epic coding adventure? Let's connect and conquer the techverse together on [LinkedIn](https://www.linkedin.com/in/renata-igarashi){:target="_blank"}!
 
 May your code compile swiftly, and your errors be ever elusive! Happy coding! 🚀🧙‍♀️
 
