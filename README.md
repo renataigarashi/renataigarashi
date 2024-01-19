@@ -13,7 +13,7 @@ Fueled by an unquenchable thirst for knowledge and a deep passion for technology
 
 - 💡 My ideas shine so bright; I need sunglasses to debug.
 - 🚧 I construct castles made of code, where bugs dare not enter.
-- 🎮 When not coding, I embark on virtual quests and seek out the perfect meme.
+- 🎸 When not in the challenges of coding, I'm in the challenges of riffs, plucking musical notes from my guitar.
 
 ## Connect with Me 🚀
 
